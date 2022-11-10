@@ -1,3 +1,5 @@
 input String Titan, String Juggernaut
 String Morphing = "Titan + Juggernaut = Ultralisk"
 print Morphing
+String Second_Morphing = "Titan + Juggernaut + Ultralisk = Voltrox"
+print Second_Morphing
